@@ -1,5 +1,5 @@
 # Pygame--hallway-surfers
-<img src="https://github.com/yello2003/Pygame--hallway-surfers/blob/master/opening%20capture.PNG?raw=true" width=900> 
+<img src="https://github.com/yello2003/Pygame--hallway-surfers/blob/master/opening%20capture.PNG?raw=true" width=700> 
 
 <hr>
 <p>

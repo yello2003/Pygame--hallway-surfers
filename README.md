@@ -7,6 +7,9 @@ The name of our game is “Hallway Surfers”. The objective of our game is to h
 <p>
 For example, if the chicken bumps into a teacher then the health will decrease by 15. However, the player can regain the points by collecting books. Collecting these books helps  the player increase their health by 5 and get points. These points help you win and when you have 15 points then you win! To move the chicken the player  must use the arrow keys to move up,down,and left to right. 
   
+  
+  
+  
 <img src="https://github.com/yello2003/Pygame--hallway-surfers/blob/master/opening%20capture.PNG?raw=true" width=500>
 <img src="https://github.com/yello2003/Pygame--hallway-surfers/blob/master/Capture%20description.PNG" width=500>
 <img src="https://github.com/yello2003/Pygame--hallway-surfers/blob/master/Capture%20gameplay.PNG" width=500>
